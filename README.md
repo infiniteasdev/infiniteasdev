@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript and much more!**
 
-- 📫 How to reach me **agentvlogger597@gmail.com**
+- 📫 Connect with me: **agentvlogger597@gmail.com**
 
 - ⚡ Fun fact **i study ethical hacking.**
 
