@@ -10,7 +10,7 @@
 - ⚡ Fun fact **i study ethical hacking.**
 
 <h3 align="left">Connect with me:</h3>
-<a XorgMC#6546<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="128i1j2" height="30" width="40" /></a>
+<h3 align="left">Discord: **XorgMC#6546** Gmail: **agentvlogger597@gmail.com**
 <p align="left">
 </p>
 
