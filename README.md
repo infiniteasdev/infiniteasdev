@@ -10,7 +10,7 @@
 - ⚡ Fun fact **i study ethical hacking.**
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Discord: XorgMC#6546 Gmail: agentvlogger597@gmail.com
+<h3 align="left">Discord: Xorg404#6546 Gmail: agentvlogger597@gmail.com
 <p align="left">
 </p>
 
