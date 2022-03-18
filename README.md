@@ -7,7 +7,7 @@
 
 - 📫 Connect with me: **agentvlogger597@gmail.com**
 
-- ⚡ Fun fact **i study ethical hacking.**
+- ⚡ Fun fact: **There's No "Fun" in fact.**
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Discord: Xorg404#6546 Gmail: agentvlogger597@gmail.com
