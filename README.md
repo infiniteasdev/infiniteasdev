@@ -9,8 +9,8 @@
 
 - ⚡ Fun fact: **There's No "Fun" in fact.**
 
-<h3 align="left">Connect with me:</h3>
 [![](https://discord.c99.nl/widget/theme-3/744049402968277022.png)]
+
 <p align="left">
 </p>
 
