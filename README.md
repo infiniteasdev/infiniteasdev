@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact: **There's No "Fun" in fact.**
 
-##Connect With Me:
+###Connect With Me:
+
 ![](https://discord.c99.nl/widget/theme-3/744049402968277022.png)
 
 <p align="left">
