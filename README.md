@@ -11,7 +11,7 @@
 
 ###Connect With Me:
 
-![](https://discord.c99.nl/widget/theme-3/744049402968277022.png)
+![](https://discord.c99.nl/widget/theme-4/744049402968277022.png)
 
 <p align="left">
 </p>
