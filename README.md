@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xorg</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
-- 🔭 I’m currently working on ["Squared Utilities"](https://infiniteasdev.github.io/SquaredUtilities/)
-
-- 🌱 I’m currently learning **Python, Javascript and much more!**
-
-- 📫 Connect with me: **agentvlogger597@gmail.com**
-
+I have no idea why you are here lmao
 Connect With Me:
 
 ![](https://discord.c99.nl/widget/theme-4/744049402968277022.png)
