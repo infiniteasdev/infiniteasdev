@@ -5,7 +5,7 @@ I have no idea why you are here lmao
 
 Connect With Me:
 
-![](https://discord.c99.nl/widget/theme-4/744049402968277022.png)
+![](https://discord.c99.nl/widget/theme-4/1018481760054562856.png)
 
 <p align="left">
 </p>
