@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xorg</h1>
 
 
-My discord was terminated. Add me on the below discord.
-
-![](https://discord.c99.nl/widget/theme-4/1018481760054562856.png)
+My discord was terminated. Add me @ xorgfx.
 
 <p align="left">
 </p>
