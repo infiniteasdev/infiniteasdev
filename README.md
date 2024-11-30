@@ -1,9 +1,4 @@
-<h1 align="center">🌌 Welcome to <span style="color:#00FFD1;">Xorg's Universe</span> 🌌</h1>  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600" height="300"/>
-</div>
-
+<h1 align="center">🌌 Hello <span style="color:#00FFD1;">I'm Xorg</span> 🌌</h1>  
 ---
 
 ## **🌟 About Me**
