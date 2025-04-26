@@ -4,7 +4,7 @@
 ## **🌟 About Me**
 
 <p align="center">
-  <strong>Hi, I’m Xorg</strong> — a multi-disciplinary developer, designer, and media creator who thrives on crafting <strong>innovative digital experiences</strong>.  
+  <strong>Hi, I’m Xorg</strong>  
 </p>
 
 <div align="center">
